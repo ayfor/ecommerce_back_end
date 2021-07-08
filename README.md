@@ -14,6 +14,8 @@ The application enables a user to Create, Read, Update and Delete entries from t
 
 A video walkthrough of the application can be found [here](https://youtu.be/3qLvxGwMNS0).
 
+![Screenshot](./ecommerce_screenshot.png)
+
 ## List of Technologies
 - Node.js
 - Sequelize
